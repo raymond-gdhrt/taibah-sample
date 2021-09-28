@@ -1,0 +1,6 @@
+ <!-- California theme dependency -->
+        <dependency>
+            <groupId>org.primefaces.themes</groupId>
+            <artifactId>california</artifactId>
+            <version>3.0.0</version>
+        </dependency>
